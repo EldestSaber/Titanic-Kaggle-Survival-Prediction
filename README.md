@@ -21,3 +21,4 @@ The evaluation metric of this competition is the percentage of passenger data in
 - Embarked - Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 ### Label:
 - Survived - Whether or not the individual survived (0 = did not survive, 1 = survived)
+## To do:
